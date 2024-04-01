@@ -1,0 +1,19 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'CtrBoard-CAN'
+compiling DMPower.c...
+DMPower.h(44): warning:  #1-D: last line of file ends without a newline
+  #endif /* __DMPOWER__ */
+DMPower.h(44): warning:  #1-D: last line of file ends without a newline
+  #endif /* __DMPOWER__ */
+DMPower.c: 2 warnings, 0 errors
+compiling main.c...
+..\MDK-ARM\DMPower.h(44): warning:  #1-D: last line of file ends without a newline
+  #endif /* __DMPOWER__ */
+..\MDK-ARM\DMPower.h(44): warning:  #1-D: last line of file ends without a newline
+  #endif /* __DMPOWER__ */
+../Core/Src/main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=5812 RO-data=500 RW-data=20 ZI-data=2364  
+FromELF: creating hex file...
+"CtrBoard-CAN\CtrBoard-CAN.axf" - 0 Error(s), 4 Warning(s).
+Build Time Elapsed:  00:00:04

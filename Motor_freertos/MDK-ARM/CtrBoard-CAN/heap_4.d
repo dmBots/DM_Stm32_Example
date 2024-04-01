@@ -1,0 +1,13 @@
+ctrboard-can\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+ctrboard-can\heap_4.o: F:\Keil_528\ARM\ARMCC\Bin\..\include\stdlib.h
+ctrboard-can\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ctrboard-can\heap_4.o: F:\Keil_528\ARM\ARMCC\Bin\..\include\stddef.h
+ctrboard-can\heap_4.o: F:\Keil_528\ARM\ARMCC\Bin\..\include\stdint.h
+ctrboard-can\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+ctrboard-can\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ctrboard-can\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ctrboard-can\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ctrboard-can\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+ctrboard-can\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ctrboard-can\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+ctrboard-can\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

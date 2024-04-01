@@ -1,0 +1,12 @@
+ctrboard-can\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+ctrboard-can\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ctrboard-can\port.o: F:\Keil_528\ARM\ARMCC\Bin\..\include\stddef.h
+ctrboard-can\port.o: F:\Keil_528\ARM\ARMCC\Bin\..\include\stdint.h
+ctrboard-can\port.o: ../Core/Inc/FreeRTOSConfig.h
+ctrboard-can\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ctrboard-can\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ctrboard-can\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ctrboard-can\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+ctrboard-can\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ctrboard-can\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+ctrboard-can\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
